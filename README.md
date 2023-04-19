@@ -13,6 +13,7 @@ We have created a simple IoT-based Smart Key Chain to find the keys if they are 
 - ESP8266WiFi.h
 - WiFiClient.h
 - Ubidots.h
+- pitches.h
 
 ## Circuit
 <img src="readme_images/circuit.jpeg">
