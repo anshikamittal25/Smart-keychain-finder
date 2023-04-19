@@ -14,6 +14,7 @@
 - Ubidots.h
 
 ## Circuit
+<img src="readme_images/circuit.jpeg">
 
 ## Connections
 - Buzzer: D2
