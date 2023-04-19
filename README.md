@@ -12,7 +12,6 @@ We have created a simple IoT-based Smart Key Chain to find the keys if they are 
 ## Libraries Used
 - ESP8266WiFi.h
 - WiFiClient.h
-- ESP8266WebServer.h
 - Ubidots.h
 
 ## Circuit
